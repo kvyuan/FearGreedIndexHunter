@@ -1,5 +1,5 @@
 # FearGreedIndexHunter
-======
+
 ## About
 
 This script will get the fear & greed index value from cnn website, make the plot and send to your email inbox if it is set up correctly
